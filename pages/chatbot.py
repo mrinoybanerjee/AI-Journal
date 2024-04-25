@@ -10,4 +10,4 @@ def show():
         if submitted:
             st.write("Penpal is thinking ✨, please hold on for a moment...")
             response = handle_query(user_query)
-            st.write("Journal Bot:", response)
+            st.write("Penpal:", response)
