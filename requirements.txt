@@ -1,5 +1,5 @@
 numpy==1.26.4
-pinecone==3.2.2
+pinecone-client==3.2.2
 protobuf==5.26.1
 python-dotenv==1.0.1
 sentence_transformers==2.3.1
